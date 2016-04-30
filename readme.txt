@@ -17,11 +17,13 @@ FEEDZY RSS Feeds is a small and lightweight RSS aggregator plugin. Fast and very
 
 The plugin uses the SimplePie php CLASS natively included in WordPress. SimplePie is a RSS parser that can read the information contained in a feed, process it, and finally display it.
 
-FEEDZY RSS Feeds therefore supports any additional library and uses only the bare minimum to ensure good performance (minimalistic CSS + cache). This will ensure compatibility with any hosting provider that supports WordPress, but if for any reason it doesn't work for yours feel free to <a href="https://themeisle.com/contact/?utm_source=readmetop&amp;utm_medium=announce&amp;utm_campaign=top" rel="nofollow">contact us</a> or take a look at our recent study of <a href="http://www.codeinwp.com/blog/best-wordpress-shared-hosting-providers/" rel="friend"/>best WordPress hosting comparison</a>. If you didn't chose yet a theme for your website, you can pick one of our favorite <a href="http://www.codeinwp.com/blog/best-free-wordpress-themes/" rel="friend">free WordPress themes</a>.
+FEEDZY RSS Feeds therefore supports any additional library and uses only the bare minimum to ensure good performance (minimalistic CSS + cache). This will ensure compatibility with any hosting provider that supports WordPress, but if for any reason it doesn't work for yours feel free to <a href="https://themeisle.com/contact/?utm_source=readmetop&amp;utm_medium=announce&amp;utm_campaign=top" rel="nofollow">contact us</a> or take a look at our recent study of <a href="http://www.codeinwp.com/blog/best-wordpress-shared-hosting-providers/" rel="friend">best WordPress hosting comparison</a>.
 
 You may use this plugin in your widgets and your pages and reuse the shortcode + widget several times within the same page.
 
 By activating this plugin, your cover picture will be inserted into your RSS feeds. By doing so, you'll make it will easier for external sites to retrieve images from your feeds.
+
+We've also built some fantastic <a href="http://themeisle.com/wordpress-themes/free/" rel="friend" target="_blank">free themes</a> that work well with Feedzy RSS Feeds, check them out.
 
 **Please ask for help or report bugs if anything goes wrong. It is the best way to make the community benefit!**
 
@@ -77,6 +79,17 @@ By activating this plugin, your cover picture will be inserted into your RSS fee
 * shortcode_atts_feedzy_default
 `
 
+**About us:**
+
+We are a young team of WordPress enthusiasts who enjoy developing <a href="http://themeisle.com/wordpress-plugins/" rel="friend" target="_blank">free WordPress plugins</a> and <a href="http://themeisle.com/wordpress-themes/" rel="friend" target="_blank">themes</a> for small businesses and startups. Check them out and let us know what you think, our goal is to build fully fledged products that will solve your needs.
+
+We also love to blog at CodeinWP and help our users finding the <a href="http://www.codeinwp.com/blog/best-wordpress-shared-hosting-providers/" rel="friend">best hosting</a> or <a href="http://justfreethemes.com/" rel="friend">themes</a>.
+
+**More from us**
+
+- <a href="http://justfreethemes.com/" rel="friend" target="_blank">JustFreeThemes</a> - Find the best free WordPress Themes
+- <a href="http://www.codeinwp.com/" rel="friend" target="_blank">CodeinWP</a> - Turn your PSD file into a WordPress Theme
+- <a href="http://revive.social/" rel="friend" target="_blank">Revive.Social</a> - WordPress plugins for Social Media marketers
  
 = Languages =
 
